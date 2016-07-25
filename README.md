@@ -1,6 +1,6 @@
-Hypothesis: Success is caused by increasing incarceration rate # debate with samir
+Hypothesis: Country success is caused by increasing incarceration rate # debate with samir
 
-Null Hypothesis: Success (as measured by gdp) is not caused by increasing incarceration rate
+Null Hypothesis: Country success (as measured by gdp) is not caused by increasing incarceration rate
 
 Result: Null Hypothesis rejected using granger test of causality.
 
